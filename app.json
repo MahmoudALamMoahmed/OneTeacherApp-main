@@ -26,6 +26,12 @@
     },
     "android": {
       "package": "com.apoalm13.learningplatform"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c4cdf2d7-9896-44fa-80ae-04304f7f3bb8"
+      }
     }
   }
 }
